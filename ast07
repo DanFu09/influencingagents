@@ -1,0 +1,2 @@
+AST
+acc=goal; (mul goal (gez (cos acc) 0.19745673470999736 goal))

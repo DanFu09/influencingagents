@@ -1,0 +1,4 @@
+A bunch of scripts for running experiments and generating graphs.
+Generally speaking, bash scripts are for running experiments, "aggregate"
+Python scripts are for data processing, and "graph" Python scripts are for
+graph generation.

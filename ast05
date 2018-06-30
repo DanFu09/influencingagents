@@ -1,0 +1,2 @@
+AST
+acc=goal; (mul distance (mul (sub (sub goal 0.2801770623593902) heading) (mul (sub acc heading) goal)))

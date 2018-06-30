@@ -1,0 +1,2 @@
+AST
+acc=goal; (mul acc (gez (cos heading) (exp (sin heading) distance) (sin goal)))

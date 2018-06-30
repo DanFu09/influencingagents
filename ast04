@@ -1,0 +1,2 @@
+AST
+acc=goal; (mul (mul acc (cos heading)) distance)
